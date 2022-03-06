@@ -4,6 +4,7 @@
 [![Downloads](https://img.shields.io/npm/dm/htmlparser2.svg?style=flat)](https://npmjs.org/package/htmlparser2)
 [![Build Status](http://img.shields.io/travis/fb55/htmlparser2/master.svg?style=flat)](http://travis-ci.org/fb55/htmlparser2)
 [![Coverage](http://img.shields.io/coveralls/fb55/htmlparser2.svg?style=flat)](https://coveralls.io/r/fb55/htmlparser2)
+[![DeepScan grade](https://deepscan.io/api/teams/16471/projects/20426/branches/556113/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=16471&pid=20426&bid=556113)
 
 Lib to convert facebook post feed to RSS. You will need facebook public content permission to use to for any public pages.
 
